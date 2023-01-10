@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=welcome%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=110&section=header&text=welcome%20&fontSize=90)
 
 
 #### Hello everyone,
@@ -14,4 +14,4 @@ These are currently my top 3 songs:
 3. Toprak Yagmura by Can Ozan
 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=byefornow%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=110&section=header&text=byefornow%20&fontSize=90)
